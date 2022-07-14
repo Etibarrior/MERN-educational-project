@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "Etibarrior secret key",
+  "mongoUri": "mongodb+srv://Etibarrior:27021996@cluster0.vwarqp8.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
